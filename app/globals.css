@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Fundación Forge Palette */
+  --forge-orange: #ffa400;
+  --forge-orange-hover: #ff6b00;
+  --forge-dark: #221f20;
+  --forge-beige: #f8f5ee;
+  --forge-sand: #eee9df;
+  --forge-white: #ffffff;
+  --forge-teal: #80cbaa;
+  --forge-gray-text: #6e6d7a;
+}
+
+body {
+  color: #221f20;
+  background-color: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Hide scrollbar utility */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
