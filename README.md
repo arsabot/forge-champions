@@ -5,6 +5,10 @@
 ---
 
 ## 📋 Tabla de Contenidos
+<div align="center">
+  <img src="assets/preview.png" alt="Forge Champions Preview" width="100%" style="border-radius: 12px; margin-bottom: 24px; border: 1px solid rgba(255,255,255,0.1);" />
+</div>
+
 1. [Stack Tecnológico](#-stack-tecnológico)
 2. [Estructura del Proyecto](#-estructura-del-proyecto)
 3. [Cómo Funciona la Arquitectura (Frontend + Backend + Supabase)](#-cómo-funciona-la-arquitectura)
