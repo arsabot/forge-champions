@@ -106,7 +106,7 @@ Si prefieres levantar el proyecto en tu propia máquina:
 1. **Entrar a la carpeta del proyecto:**
    ```bash
    cd ~/Desktop/forge-champions
-   # o bien: cd /Users/Ariel/.gemini/antigravity-ide/scratch/forge-champions
+   # o bien: cd /Users/scratch/forge-champions
    ```
 
 2. **Instalar las dependencias:**
