@@ -132,7 +132,7 @@ Si tu red corporativa bloquea el puerto 3000 hacia el exterior, puedes hacer un 
 
 1. En tu terminal de Mac ejecuta:
    ```bash
-   ssh -L 3000:localhost:3000 -i /Users/Ariel/.gemini/antigravity/scratch/Team-7/Team-7.pem force@ec2-52-90-35-158.compute-1.amazonaws.com
+   ssh -L 3000:localhost:3000 -i /Users/scratch/Team-7/Team-7.pem force@ec2-52-90-35-158.compute-1.amazonaws.com
    ```
 2. Mientras dejes esa terminal abierta, entra en tu navegador a:
    👉 **[http://localhost:3000](http://localhost:3000)**
